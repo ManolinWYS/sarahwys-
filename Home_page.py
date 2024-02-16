@@ -29,7 +29,7 @@ def run():
         page_icon="👋",
     )
 
-    st.write("# :balloon: Finance Team Homepage 👋")
+    st.write("# Finance Team Homepage 👋")
    
 
     st.sidebar.success("Select a demo above.")

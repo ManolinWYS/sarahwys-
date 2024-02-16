@@ -27,7 +27,7 @@ def run():
     st.set_page_config(
         page_title="Morning file")
 
-    st.write("# :balloon: Morning file")
+    st.write("#  Morning file")
 
     st.markdown(
         """
